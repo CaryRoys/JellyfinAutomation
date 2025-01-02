@@ -1,6 +1,6 @@
 # JellyfinAutomation
 
-Habeeb's repo for storing various useful bits of automation related to running your own Jellyfin server on Windows.
+Cary's repo for storing various useful bits of automation related to running your own Jellyfin server on Windows.
 
 `JellyFinRestHelper.ps1` - the functions as detailed on this blog post: https://medium.com/@caryroys/a-working-example-of-jellyfin-automation-196d72bf4542
 
